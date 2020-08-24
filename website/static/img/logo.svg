@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="77px" height="130px" viewBox="0 0 77 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="3.41967037e-05 0 50.8219713 0 50.8219713 91.7907611 3.41967037e-05 91.7907611"></polygon>
+        <polygon id="path-3" points="0.000760611798 0.654405556 50.8226977 0.654405556 50.8226977 92.4444444 0.000760611798 92.4444444"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo-图形" transform="translate(-97.000000, -44.000000)">
+            <g id="Group-13" transform="translate(97.000000, 44.000000)">
+                <g id="Group-7">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-6"></g>
+                    <path d="M37.7754736,-7.22222222e-05 C35.8693604,29.1668722 -25.076866,49.2540389 11.8649736,91.7907611 C13.5052189,61.6192056 77.6665585,37.1315389 37.7754736,-7.22222222e-05" id="Fill-5" fill="#FF7828" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-10" transform="translate(26.150943, 37.555556)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-9"></g>
+                    <path d="M37.7762,0.654405556 C35.8700868,29.8206278 -25.0761396,49.9077944 11.8657,92.4445167 C13.5059453,62.2729611 77.6672849,37.7860167 37.7762,0.654405556" id="Fill-8" fill="#FF7828" mask="url(#mask-4)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
