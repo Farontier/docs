@@ -1,17 +1,12 @@
 {
   "docs": {
     "Intro": [
-      "doc1",
+      "get_start",
       "general/subAccount"
     ],
     "Miner": [
       "miner/hashrate",
       "doc2"
-    ],
-    "Network statistics": ["doc3"],
-    "Pool statistics": [
-      "doc4",
-      "doc5"
     ]
   }
 }

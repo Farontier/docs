@@ -21,10 +21,10 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'SparkPool Docs', // Title for your website.
+  title: 'API', // Title for your website.
   tagline: 'api',
   url: 'https://farontier.github.io', // Your website URL
-  baseUrl: '/docs/', // Base URL for your project */
+  baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
@@ -37,16 +37,7 @@ const siteConfig = {
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
-  headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    { page: 'help', label: 'Help' },
-    { href: 'https://www.sparkpool.com', label: 'Pool' },
-    { href: 'https://gasnow.sparkpool.com', label: 'GasNow' },
-    // { search: true },
-
-    // {doc: 'doc4', label: 'Pool'},
-    // {blog: true, label: 'Blog'},
-  ],
+  headerLinks: [],
 
   // If you have users set above, you add it here:
   users,
