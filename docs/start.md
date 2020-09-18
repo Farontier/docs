@@ -1,7 +1,7 @@
 ---
-id: get_start
+id: start
 title: SparkPool API Document
-sidebar_label: get-start
+sidebar_label: start
 ---
 
 The document is introduce how to integrated with [SparkPool](https://www.sparkpool.com) API.
